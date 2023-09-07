@@ -38,7 +38,6 @@ PRODUCT_COPY_FILES += \
     $(DEVICE_PATH)/vendor/etc/acdbdata/Bluetooth_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Bluetooth_cal.acdb \
     $(DEVICE_PATH)/vendor/etc/acdbdata/Hdmi_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/Hdmi_cal.acdb \
     $(DEVICE_PATH)/vendor/etc/acdbdata/adsp_avs_config.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/adsp_avs_config.acdb \
-    $(DEVICE_PATH)/vendor/etc/acdbdata/acdb_cal.acdb:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/acdb_cal.acdb \
     $(DEVICE_PATH)/vendor/etc/acdbdata/workspaceFileXml.qwsp:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/workspaceFileXml.qwsp \
     $(DEVICE_PATH)/vendor/etc/acdbdata/nn_ns_models/fai__2.6.3_0.0__3.0.0_0.0__eai_1.10_enpu1.pmd:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/nn_ns_models/fai__2.6.3_0.0__3.0.0_0.0__eai_1.10_enpu1.pmd \
     $(DEVICE_PATH)/vendor/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.00.pmd:$(TARGET_COPY_OUT_VENDOR)/etc/acdbdata/nn_ns_models/fai__2.0.0_0.1__3.0.0_0.0__eai_1.00.pmd \
